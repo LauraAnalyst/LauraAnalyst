@@ -1,4 +1,4 @@
-As a business analyst with 8+ years of experience in analyzing and interpreting complex data, I am currently pursuing a master's degree in data science and analytics to enhance my skills and pursue my passion for using data to drive insights and inform decision making.
+As a business analyst with 8+ years of experience in analyzing and interpreting complex data, I am currently pursuing a master's degree in data science and analytics to enhance my skills and pursue my passion for using data.
 
 Throughout my professional journey as a business analyst, I have honed my expertise in data analysis, modeling, and visualization. I have also cultivated strong communication and problem-solving skills, which I believe will be valuable in a data science role.
 
